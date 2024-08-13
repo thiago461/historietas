@@ -1,0 +1,16 @@
+body{
+ background-color: mediumaquamarine;
+ color: white;
+ font-family: "Noto Sans", sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;
+}
+
+button {
+ background-color: aliceblue;
+ color: black;
+ font-family: "Noto Sans", sans-serif;
+}
